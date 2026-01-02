@@ -1,0 +1,85 @@
+# Testing Automation - UX/UI Assets
+
+## Screenshots Description
+
+### 1. Main Demo Screenshot
+- **File**: testing-automation-demo.png
+- **Description**: Show terminal with test execution output and coverage report
+- **Dimensions**: 800x400 pixels
+- **Content**: 
+  - Left side: Command line running tests
+  - Right side: Test results and coverage information
+  - Highlighted areas showing key metrics
+
+### 2. Performance Testing Screenshot
+- **File**: performance-testing.png
+- **Description**: Show performance test results and metrics
+- **Dimensions**: 800x400 pixels
+- **Content**:
+  - Terminal showing performance test command
+  - Results table with min, max, avg times
+  - Performance metrics visualization
+
+### 3. Report Generation Screenshot
+- **File**: report-generation.png
+- **Description**: Show the generation of test reports
+- **Dimensions**: 800x400 pixels
+- **Content**:
+  - Command line with report generation
+  - Output showing report files created
+  - Example of JSON report structure
+
+## Badge Assets
+
+### 1. Main Project Badge
+- **File**: testing-automation-badge.png
+- **Description**: A badge showing the main features of the tool
+- **Dimensions**: 200x100 pixels
+- **Content**: 
+  - Icon: Test tube with automation gears
+  - Text: "Testing Automation"
+  - Tagline: "Automate Your Testing Workflow"
+
+### 2. Feature Badges
+- **File**: feature-badges.png (composite image with multiple badges)
+- **Description**: Individual badges for each feature
+- **Dimensions**: 150x50 pixels each
+- **Content**:
+  - "Pytest Support" badge
+  - "Coverage Analysis" badge
+  - "Performance Testing" badge
+  - "CI/CD Ready" badge
+
+## Icon Assets
+
+### 1. Application Icon
+- **File**: testing-automation-icon.png
+- **Description**: Main application icon showing testing automation
+- **Dimensions**: 512x512 pixels
+- **Content**:
+  - Test tube symbol
+  - Automation gears
+  - Color scheme: Testing blues and greens
+  - Clean, modern design
+
+### 2. Favicon
+- **File**: favicon.ico
+- **Description**: Small icon for web presence
+- **Dimensions**: 32x32 pixels
+
+## Color Scheme
+- Primary: #3498db (testing blue)
+- Secondary: #2ecc71 (success green)
+- Accent: #e74c3c (failure red)
+- Background: #ecf0f1 (light gray)
+- Text: #2c3e50 (dark gray)
+
+## Typography
+- Headings: Sans-serif, bold
+- Body text: Sans-serif, regular
+- Code: Monospace font
+
+## Animation Suggestions
+- A short GIF showing the test execution process: run tests → generate reports → show results
+- Duration: 3-5 seconds
+- File: testing-demo.gif
