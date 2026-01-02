@@ -1,9 +1,11 @@
 # Testing Automation
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![GitHub](https://img.shields.io/badge/GitHub-yksanjo%2Ftesting--automation-181717?logo=github)](https://github.com/yksanjo/testing-automation)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Test Framework](https://img.shields.io/badge/test-frameworks-pytest%20%7C%20unittest-3498db.svg)](https://shields.io/)
+[![Test Framework](https://img.shields.io/badge/test-frameworks-pytest%20%7C%20unittest-3498db.svg?logo=pytest)](https://shields.io/)
 [![Coverage](https://img.shields.io/badge/coverage-analysis-brightgreen.svg)](https://shields.io/)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 > Automated testing tools for streamlining test execution and analysis
 
@@ -41,7 +43,7 @@ Testing Automation is a comprehensive suite of utilities for running tests, gene
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/testing-automation.git
+   git clone https://github.com/yksanjo/testing-automation.git
    cd testing-automation
    ```
 
@@ -175,7 +177,7 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/testing-automation.git
+git clone https://github.com/yksanjo/testing-automation.git
 cd testing-automation
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -192,8 +194,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 - Check the [documentation](docs/)
-- Open an [issue](https://github.com/yourusername/testing-automation/issues)
-- Submit a [pull request](https://github.com/yourusername/testing-automation/pulls)
+- Open an [issue](https://github.com/yksanjo/testing-automation/issues)
+- Submit a [pull request](https://github.com/yksanjo/testing-automation/pulls)
 
 ## 🙏 Acknowledgments
 
